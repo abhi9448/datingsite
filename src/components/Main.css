@@ -1,0 +1,47 @@
+.div1{
+        background-image: url('https://www.teahub.io/photos/full/361-3616321_pretty-girl.jpg');
+        
+        width: 100%;
+        height: 100%;
+       
+    
+        
+        
+}
+
+.head{ font-size:xx-large;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(248, 248, 252);
+    padding-left: 20px;
+
+}
+
+.center{
+    color: rgb(248, 248, 252);
+    text-align: center;
+    font-weight: 100;
+    font-size: xx-large;
+    margin-top: 250px;
+    
+}
+.foot {
+    margin-top: 16.5rem;
+    text-align: center;
+    background-color:grey;
+    color:white;
+    background-image: none;
+    font-size: medium;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left: 0rem;
+    
+    
+}
+
+.btnn{
+    
+    margin-left: 1120px;
+    color: white;
+    size: 2px;
+
+    font-size: 20px;
+}
